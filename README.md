@@ -1,0 +1,1 @@
+Matriz gerada em FORTRAN com o objetivo de demonstrar o funcionamento de interação de energia do Triangulene
